@@ -1,0 +1,30 @@
+Mean: 
+WeekOfMonth              2.788586
+WeekOfMonthClaimed       2.693969
+Age                     39.855707
+PolicyNumber          7710.500000
+RepNumber                8.483268
+Deductible             407.704280
+DriverRating             2.487808
+Year                  1994.866472
+dtype: float64
+Mode: 
+WeekOfMonth              3.0
+WeekOfMonthClaimed       2.0
+Age                     30.0
+PolicyNumber             1.0
+RepNumber                7.0
+Deductible             400.0
+DriverRating             1.0
+Year                  1994.0
+Name: 0, dtype: float64
+Median: 
+WeekOfMonth              3.0
+WeekOfMonthClaimed       3.0
+Age                     38.0
+PolicyNumber          7710.5
+RepNumber                8.0
+Deductible             400.0
+DriverRating             2.0
+Year                  1995.0
+dtype: float64
